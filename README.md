@@ -1,65 +1,62 @@
- Bilal Abdulkadir Muhammed – IT Support Portfolio
+# 👋 Hi, I'm Bilal Abdulkadir Muhammed  
 
-This repository contains the source code for my personal portfolio website, built and deployed using GitHub Pages.
+**ServiceNow | Developer Enthusiast | IT Support & Cybersecurity**  
 
- 🌐 Live Website
-https://bilalabdulkadir.github.io
+🌍 Based in Adama, Oromia Region, Ethiopia  
+📧 bilalabdulkadir286@gmail.com | [LinkedIn](https://www.linkedin.com/in/bilalabdulkadir) | [Portfolio Website](https://bilalabdulkadir.github.io)  
 
+---
 
+## 🚀 About Me  
+Motivated IT Support and Cybersecurity professional with hands‑on experience in troubleshooting, database management, and technical support. Skilled in Python, Pandas, Excel, and Power BI, with a growing focus on data analysis and infrastructure security. Passionate about continuous learning, building public portfolio projects, and contributing to open‑source communities.  
 
- 📌 About This Project
-This website showcases my skills, certifications, and hands-on experience in IT Support, troubleshooting, and system maintenance.
+---
 
-It is designed to support:
-- Job applications
-- Academic and college applications
-- Professional portfolio presentation
+## 🛠️ Technical Skills  
+- **IT Support**: Hardware/software troubleshooting, ticket systems, system optimization  
+- **Data Analysis**: Python, Pandas, Excel, Power BI, Microsoft Fabric Analytics  
+- **Cybersecurity**: OPSWAT Critical Infrastructure Protection (valid until 2027)  
+- **Web Development**: HTML, CSS, GitHub Pages  
+- **Tools & Platforms**: ServiceNow, GitHub, LinkedIn, Microsoft Learn  
 
+---
 
+## 📂 Featured Projects  
+- **[Portfolio Website](https://bilalabdulkadir.github.io/Portfolio)**  
+  Personal portfolio showcasing projects, skills, and professional journey.  
 
- 📂 Project Structure
+- **Project of My Experience**  
+  University project implementing a manual café and restaurant system with visual representation.  
 
-- `index.html` – Main homepage
-- `about.html` – About me section
-- `projects.html` – IT projects and experience
-- `Bilal_Abdulkadir_CV.pdf` – Downloadable CV
+- **IT Support Data Analysis** *(Private/Public depending on repo)*  
+  Analyzed ticket resolution times and issue frequency using Python and Pandas, with visual dashboards in Power BI.  
 
+---
 
+## 🎓 Education  
+- **B.Sc. in Information Technology** — Jimma University (2014–2019, GPA 2.31)  
+- **Ethiopian University Entrance Examination** — Hawas Preparatory School (2013)  
+- **General Secondary Education Certificate** — Adama Comprehensive Secondary School (2012, GPA 2.89)  
 
- 🛠️ Technologies Used
+---
 
-- HTML5
-- CSS3
-- GitHub Pages (for hosting)
+## 🌐 Professional Memberships  
+- Life Expert LLC — Member (2025–Present)  
+- ABC Hub — Member (2025–Present)  
+- Engineers Australia — Member (2025–Present)  
+- IEA Xchange — Member (2025–Present)  
+- World Economic Forum — Member (2025–Present)  
+- Honor Society — Member (2025–Present)  
 
+---
 
+## 📊 GitHub Stats  
+![Bilal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bilalabdulkadir&show_icons=true&theme=default)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bilalabdulkadir&layout=compact)  
 
- 🔗 Professional Profiles
+---
 
-- LinkedIn: https://www.linkedin.com/in/bilalabdulkadir
-- ServiceNow Learning: https://learning.servicenow.com/lxp?id=nl_public&user=bilalabdulkadir
-- Microsoft Learn: https://learn.microsoft.com/en-us/users/MuhammedBilal-0049
-- Substack Blog: https://bilalabdulkadir.substack.com
-- GitHub: https://github.com/Bilalabdulkadir
-
-
-
- 🎯 Purpose
-
-This portfolio demonstrates my ability to:
-- Diagnose and resolve IT issues
-- Support users in technical environments
-- Work with modern tools and platforms
-
-
-
- 📬 Contact
-
-For opportunities or collaboration:
-
-📧 Email: bilalabdulkadir286@gmail.com
-🌍 LinkedIn: https://www.linkedin.com/in/bilalabdulkadir
-
-
-
-© 2026 Bilal Abdulkadir Muhammed
+## ✨ Interests  
+- Career growth in cybersecurity and technology  
+- Exploring data visualization and analytics trends  
+- Learning new technologies in AI‑assisted analytics
