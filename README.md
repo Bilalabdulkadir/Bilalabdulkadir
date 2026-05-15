@@ -6,33 +6,45 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bilalabdulkadir)  
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bilalabdulkadir)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=web&logoColor=white)](https://www.bilalabdulkadir.com)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=web&logoColor=white)](https://bilalabdulkadir.github.io)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bilalabdulkadir286@gmail.com)  
 
 </div>
 
 🌍 **Location**: Adama, Oromia Region, Ethiopia  
 📧 **Email**: bilalabdulkadir286@gmail.com  
-🌐 **Website**: [www.bilalabdulkadir.com](https://www.bilalabdulkadir.com)
+🌐 **Website**: [bilalabdulkadir.github.io](https://bilalabdulkadir.github.io)
 
 ---
 
 ## 🚀 About Me  
-Motivated IT Support and Cybersecurity professional with hands-on experience in troubleshooting, database management, and technical support. I'm passionate about automating IT operations, analyzing data for actionable insights, and building secure infrastructure. Currently advancing expertise in ServiceNow automation, cloud technologies (AWS/Azure), and cybersecurity best practices.
+Motivated IT Support and Cybersecurity professional with hands-on experience in troubleshooting, database management, and technical support. I'm passionate about automating IT operations, analyzing data with AI tools, and building solutions that enhance efficiency. Experienced in AWS, PartyRock AI, and data-driven decision making.
 
 ---
 
 ## ⚡ Quick Facts  
 - 💻 **Languages**: Amharic (Native) • English (Fluent) • Oromo  
-- 🎯 **Expertise**: ServiceNow automation, IT operations, data analytics, cybersecurity  
-- 🔧 **Tech Stack**: Python, Pandas, Power BI, Excel, HTML/CSS, GitHub  
+- 🎯 **Expertise**: ServiceNow automation, IT operations, data analytics, AI tools, cybersecurity  
+- 🔧 **Tech Stack**: Python, Pandas, Power BI, AWS, PartyRock, HTML/CSS, GitHub  
 - 📈 **Contributions**: 150+ commits across public repositories  
+
+---
+
+## 🏆 Recent Achievements (2026)
+
+### 🎖️ AWS AI & ML Scholars Program
+**Analyze Data using AI with PartyRock** - *Completed May 2026*
+- ✅ Mastered AWS PartyRock for AI-powered data analysis
+- ✅ Built intelligent chatbots for data-driven insights
+- ✅ Leveraged generative AI for enhanced analytics workflows
+- **Hashtags**: #AWS #AWSAI&MLScholars #Udacity
 
 ---
 
 ## 🛡️ Certifications & Training  
 | Certification | Issuer | Valid Until |
 |---|---|---|
+| **Analyze Data using AI with PartyRock** | Udacity/AWS | May 2026 ⭐ NEW |
 | **Critical Infrastructure Protection (CIP)** | OPSWAT Academy | Mar 2027 |
 | **Cyber Security Operations Simulation** | Forage | Mar 2026 |
 | **AWS AI Practitioner Challenge** | Udacity | May 2026 |
@@ -70,20 +82,27 @@ Motivated IT Support and Cybersecurity professional with hands-on experience in 
 | Category | Skills |
 |---|---|
 | **IT Support** | Hardware/software troubleshooting, ServiceNow, system optimization, ticket management |
-| **Data Analysis** | Python ⭐⭐⭐, Pandas ⭐⭐⭐, Excel ⭐⭐⭐, Power BI ⭐⭐⭐, Microsoft Fabric Analytics ⭐⭐ |
+| **Data Analysis** | Python ⭐⭐⭐, Pandas ⭐⭐⭐, Excel ⭐⭐⭐, Power BI ⭐⭐⭐, Microsoft Fabric ⭐⭐ |
+| **AI & Machine Learning** | AWS PartyRock ⭐⭐⭐, Generative AI ⭐⭐⭐, Data-driven insights ⭐⭐⭐ |
 | **Cybersecurity** | OPSWAT CIP, infrastructure protection, best practices, security operations |
 | **Web Development** | HTML ⭐⭐⭐, CSS ⭐⭐⭐, GitHub Pages, responsive design |
-| **Cloud & Tools** | GitHub, ServiceNow, Microsoft Learn, Power BI, AWS (learning) ⭐⭐ |
+| **Cloud & Tools** | AWS (learning) ⭐⭐⭐, GitHub, ServiceNow, Power BI, Azure ⭐⭐ |
 
 ---
 
 ## 📂 Featured Projects  
 
+### 🤖 Analyze Data using AI with PartyRock
+AWS-powered AI data analysis project showcasing intelligent automation  
+- **Tech**: AWS PartyRock, Generative AI, Data Analysis  
+- **Achievement**: Completed AWS AI & ML Scholars Program (May 2026)  
+- **Focus**: AI-driven insights, chatbot development, intelligent data workflows  
+
 ### 🌐 Portfolio Website  
 Personal portfolio showcasing projects, skills, and professional journey  
-- **Tech**: HTML, CSS, JavaScript, GitHub Pages  
-- **Achievement**: Responsive design with 94% Lighthouse score  
-- **Link**: [www.bilalabdulkadir.com](https://www.bilalabdulkadir.com)  
+- **Tech**: HTML, CSS, Responsive Design, GitHub Pages  
+- **Achievement**: Modern UI with smooth animations and hover effects  
+- **Link**: [bilalabdulkadir.github.io](https://bilalabdulkadir.github.io)  
 
 ### 📊 IT Support Data Analysis Dashboard  
 Analyzed 500+ IT support tickets to optimize resolution times and identify bottlenecks  
@@ -114,6 +133,7 @@ World Economic Forum • Engineers Australia • Honor Society • ABC Hub • L
 ---
 
 ## 🔥 Recent Highlights (2026)  
+- ✅ **Completed AWS AI & ML Scholars: PartyRock Project** (May 2026) ⭐ NEW
 - ✅ Completed **AWS AI Practitioner Challenge**  
 - ✅ Certified in **Cyber Security Operations** (Forage)  
 - 🚀 Building **ServiceNow automation framework** for IT operations  
@@ -122,11 +142,12 @@ World Economic Forum • Engineers Australia • Honor Society • ABC Hub • L
 ---
 
 ## 🎯 Current Focus  
-- 🔭 Exploring advanced ServiceNow automation and workflow optimization  
-- 🌱 Deepening expertise in AWS, Azure, and advanced cybersecurity practices  
-- 👯 Open to collaborating on IT support automation and data analysis projects  
-- 💡 Building tools to enhance IT support efficiency and reduce operational costs  
-- 📖 Contributing to open-source projects in IT automation space  
+- 🤖 Exploring **AI-powered data analysis** with AWS PartyRock and generative AI
+- 🔭 Advancing **ServiceNow automation** and workflow optimization  
+- 🌱 Deepening expertise in **AWS, Azure, and advanced cybersecurity**  
+- 👯 Open to collaborating on **AI automation, IT support, and data analysis projects**  
+- 💡 Building tools to enhance **IT support efficiency** and reduce operational costs  
+- 📖 Contributing to **open-source projects** in IT automation space  
 
 ---
 
@@ -139,7 +160,7 @@ World Economic Forum • Engineers Australia • Honor Society • ABC Hub • L
 | **LinkedIn** | [linkedin.com/in/bilalabdulkadir](https://linkedin.com/in/bilalabdulkadir) |
 | **GitHub** | [github.com/Bilalabdulkadir](https://github.com/Bilalabdulkadir) |
 | **Email** | [bilalabdulkadir286@gmail.com](mailto:bilalabdulkadir286@gmail.com) |
-| **Website** | [www.bilalabdulkadir.com](https://www.bilalabdulkadir.com) |
+| **Portfolio** | [bilalabdulkadir.github.io](https://bilalabdulkadir.github.io) |
 
 </div>
 
@@ -149,7 +170,7 @@ World Economic Forum • Engineers Australia • Honor Society • ABC Hub • L
 
 ### 🚀 Let's Connect!
 
-**Interested in IT automation, data analysis, or cybersecurity projects? I'd love to collaborate!**  
+**Interested in IT automation, AI data analysis, or cybersecurity projects? I'd love to collaborate!**  
 Feel free to reach out via LinkedIn, email, or visit my professional website.
 
 ⭐ *If you find my projects helpful, please consider giving them a star!* ⭐  
