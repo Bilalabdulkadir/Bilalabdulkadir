@@ -1,0 +1,30 @@
+certifications:
+  - name: "AWS Certified Solutions Architect"
+    issuer: "Amazon Web Services"
+    date: "2024-06-15"
+    url: "https://aws.amazon.com/certification/"
+    badge: "🏆"
+
+  - name: "Google Cloud Associate Cloud Engineer"
+    issuer: "Google Cloud"
+    date: "2024-05-20"
+    url: "https://cloud.google.com/certification/cloud-engineer"
+    badge: "☁️"
+
+  - name: "Kubernetes Application Developer (CKAD)"
+    issuer: "Cloud Native Computing Foundation"
+    date: "2024-04-10"
+    url: "https://www.cncf.io/certification/ckad/"
+    badge: "⚓"
+
+  - name: "HashiCorp Certified: Terraform Associate"
+    issuer: "HashiCorp"
+    date: "2024-03-05"
+    url: "https://www.hashicorp.com/certification/terraform-associate"
+    badge: "🛠️"
+
+  - name: "Microsoft Azure Fundamentals (AZ-900)"
+    issuer: "Microsoft"
+    date: "2024-02-28"
+    url: "https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/"
+    badge: "🌐"
