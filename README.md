@@ -1,102 +1,152 @@
-# 👋 Hi, I'm Bilal Abdulkadir Muhammed  
-
-**IT Support • Data Analysis • Cybersecurity Enthusiast**  
-
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bilalabdulkadir)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bilalabdulkadir)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=web&logoColor=white)](https://bilalabdulkadir.github.io)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bilalabdulkadir286@gmail.com)  
+# 👋 Bilal Abdulkadir Muhammed
+
+**IT Support & Data Professional · Aspiring Leader in Technology & Operations**
+
+📍 Addis Ababa, Ethiopia  
+📞 +251 941 322 948 · 📧 [bilalabdulkadir286@gmail.com](mailto:bilalabdulkadir286@gmail.com)  
+🌐 [bilalabdulkadir.github.io](https://bilalabdulkadir.github.io)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bilalabdulkadir)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bilalabdulkadir)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=web&logoColor=white)](https://bilalabdulkadir.github.io)
+
+> 🟢 **Open to Work** — IT Support, Data Analysis, IT Operations, and Cybersecurity roles (remote, hybrid, or on-site)
 
 </div>
 
-🌍 **Location**: Adama, Oromia Region, Ethiopia  
-📧 **Email**: bilalabdulkadir286@gmail.com  
-🌐 **Website**: [bilalabdulkadir.github.io](https://bilalabdulkadir.github.io)
+---
+
+## 🚀 About Me
+
+IT professional with **5+ years** of experience in technical support, data management, and systems operations. I lead training initiatives, coordinate cross-departmental workflows, and turn data into decisions that improve team and operational performance. Currently developing leadership and management capabilities to combine technical expertise with strategic team leadership.
+
+- 🗣️ **Languages:** Amharic (Native) · English (B1, preparing for IELTS 6.0) · Oromo
+- 🎯 **Strengths:** IT support & troubleshooting, Power BI reporting, Python data analysis, SQL databases, stakeholder training
+- 🛠️ **Stack:** Power BI · Microsoft Fabric · Excel · Python (Pandas) · SQL · AWS · Office 365
+- 📈 **Open source:** 150+ commits across public repositories
 
 ---
 
-## 🚀 About Me  
-Motivated IT Support and Cybersecurity professional with hands-on experience in troubleshooting, database management, and technical support. I'm passionate about automating IT operations, analyzing data with AI tools, and building solutions that enhance efficiency. Experienced in AWS, PartyRock AI, and data-driven decision making.
+## 🎯 What I'm Looking For
+
+Open to roles in **IT Support**, **Data Analysis**, **IT Operations**, and **Cybersecurity**. Interested in positions involving Power BI reporting, ServiceNow-style ticketing workflows, cloud infrastructure (AWS/Azure), or AI-driven analytics.
+
+- **Work modes:** Remote · Hybrid · On-site
+- **Availability:** Immediate
+- **Resume:** [Download CV](https://github.com/Bilalabdulkadir/Bilalabdulkadir/raw/main/Bilal_Abdulkadir_CV.pdf) · *or request via [email](mailto:bilalabdulkadir286@gmail.com)*
+
+> *Upload `Bilal_Abdulkadir_CV.pdf` to the root of this repo to activate the download link.*
 
 ---
 
-## ⚡ Quick Facts  
-- 💻 **Languages**: Amharic (Native) • English (Fluent) • Oromo  
-- 🎯 **Expertise**: ServiceNow automation, IT operations, data analytics, AI tools, cybersecurity  
-- 🔧 **Tech Stack**: Python, Pandas, Power BI, AWS, PartyRock, HTML/CSS, GitHub  
-- 📈 **Contributions**: 150+ commits across public repositories  
+## 💼 Professional Experience
+
+**IT Support Specialist** — *Star Development Association* (Apr 2022 – Sep 2025)
+- Resolved **95%** of technical support tickets within SLA timelines, reducing operational downtime by 15%
+- Led training and onboarding of **10+ staff members** on IT best practices and basic troubleshooting, improving first-call resolution by 25%
+- Designed and maintained technical documentation, cutting new-staff onboarding time by 30%
+- Implemented proactive IT maintenance, reducing recurring technical issues by 20%
+- Coordinated IT operations across multiple departments: hardware setup, software installation, account configuration, system updates
+
+**Data Entry & Database Support Officer** — *Dera City Administration* (Mar 2020 – Oct 2022)
+- Entered, validated, and maintained **50,000+ municipal records** with **99% accuracy**
+- Improved data quality controls, reducing duplicate records by 40%
+- Generated routine and ad-hoc reports to support management decision-making
+- Provided database access and records management to internal stakeholders
+
+**Volunteer Computer Tutor** — *Community Programme, Jimma* (Apr 2014 – Aug 2019)
+- Delivered basic computer and digital-skills training to **50+ community members**
+- Coordinated training sessions, building communication and people-leadership skills across diverse groups
+- Mentored learners on hardware, software, and internet troubleshooting
 
 ---
 
-## 🏆 Recent Achievements (2026)
+## 🛡️ Certifications & Training
 
-### 🎖️ AWS AI & ML Scholars Program
-**Analyze Data using AI with PartyRock** - *Completed May 2026*
-- ✅ Mastered AWS PartyRock for AI-powered data analysis
-- ✅ Built intelligent chatbots for data-driven insights
-- ✅ Leveraged generative AI for enhanced analytics workflows
-- **Hashtags**: #AWS #AWSAI&MLScholars #Udacity
-
----
-
-## 🛡️ Certifications & Training  
-| Certification | Issuer | Valid Until |
+| Certification | Issuer | Date |
 |---|---|---|
-| **Analyze Data using AI with PartyRock** | Udacity/AWS | May 2026 ⭐ NEW |
-| **Critical Infrastructure Protection (CIP)** | OPSWAT Academy | Mar 2027 |
-| **Cyber Security Operations Simulation** | Forage | Mar 2026 |
-| **AWS AI Practitioner Challenge** | Udacity | May 2026 |
-| **Cloud Computing Fundamentals** | Microsoft Learn | 2026 |
-| **Emotional Intelligence Course** | Louis Saint University EXP | Oct 2026 |
-| **Gemini in Google Drive** | Udacity | Jan 2026 |
+| Critical Infrastructure Protection (ICIP) | OPSWAT Academy | Mar 2026 |
+| AWS AI Practitioner Challenge | Udacity | May 2026 |
+| Cyber Security Operations Job Simulation | Forage | Mar 2026 |
+| Cloud Computing — Describe Cloud Computing | Microsoft Learn | Mar 2026 |
+| CompTIA Security+ (SY0-701) Mock Exam | CyberInterviewPrep · *Score: 95/100* | Mar 2026 |
+| Maze 101: Getting Started | Maze University | Mar 2026 |
+| Developing Emotional Intelligence | Saint Louis University | May 2026 |
+| Gemini in Google Drive | Udacity | Jan 2026 |
 
 ---
 
-## 💼 Professional Experience  
+## 🎓 Education
 
-### IT Support Service  
-**Star Development Association** | Apr 2022 – Sep 2025  
-- Provided technical support and troubleshooting for 100+ users  
-- Resolved ServiceNow tickets with average resolution time of 4 hours  
-- Optimized system performance, reducing downtime by 25%  
-
-### Database Registration Volunteer  
-**Dera City Administration** | Mar 2020 – Oct 2022  
-- Managed and maintained critical database records  
-- Coordinated data entry and validation processes  
+**B.Sc. in Information Technology** — Jimma University, Ethiopia (Graduated Jul 2019)
 
 ---
 
-## 🎓 Education  
-- **B.Sc. in Information Technology** — Jimma University (2019) | GPA: 2.31  
-- **Ethiopian University Entrance Exam** — Hawas Preparatory School (2013)  
-- **General Secondary Education Certificate** — Adama Comprehensive Secondary School (2012) | GPA: 2.89  
+## 🛠️ Technical Skills
 
----
-
-## 🛠️ Technical Skills  
-
-### Core Competencies
 | Category | Skills |
 |---|---|
-| **IT Support** | Hardware/software troubleshooting, ServiceNow, system optimization, ticket management |
-| **Data Analysis** | Python ⭐⭐⭐, Pandas ⭐⭐⭐, Excel ⭐⭐⭐, Power BI ⭐⭐⭐, Microsoft Fabric ⭐⭐ |
-| **AI & Machine Learning** | AWS PartyRock ⭐⭐⭐, Generative AI ⭐⭐⭐, Data-driven insights ⭐⭐⭐ |
-| **Cybersecurity** | OPSWAT CIP, infrastructure protection, best practices, security operations |
-| **Web Development** | HTML ⭐⭐⭐, CSS ⭐⭐⭐, GitHub Pages, responsive design |
-| **Cloud & Tools** | AWS (learning) ⭐⭐⭐, GitHub, ServiceNow, Power BI, Azure ⭐⭐ |
+| **Data & Analytics** | Power BI · Microsoft Fabric · Excel (Pivot Tables, Dashboards, Reporting) · Python (Pandas) · SQL |
+| **IT Operations** | Windows OS · Office 365 · Google Workspace · Ticketing Systems · System Configuration |
+| **Cloud & Security** | AWS · Microsoft Cloud Fundamentals · Cybersecurity Fundamentals |
+| **Productivity** | Google Drive · AI productivity tools · Collaborative workflow tools |
 
 ---
 
-## 📂 Featured Projects  
+## 📂 Featured Projects
 
-### 🤖 Analyze Data using AI with PartyRock
-AWS-powered AI data analysis project showcasing intelligent automation  
-- **Tech**: AWS PartyRock, Generative AI, Data Analysis  
-- **Achievement**: Completed AWS AI & ML Scholars Program (May 2026)  
-- **Focus**: AI-driven insights, chatbot development, intelligent data workflows  
+### 📊 IT Support Data Analysis Project
+Analyzed IT support ticket data using Python and Power BI to identify service trends.
+- **Stack:** Python · Pandas · Power BI
+- **Impact:** Improved response efficiency by 20%
+
+### 📈 Power BI Dashboard Project
+Interactive dashboards and visual reports to monitor operational performance and business trends.
+- **Stack:** Power BI · Excel
+- **Focus:** Operational KPIs, business reporting
+
+### 🛡️ Cybersecurity Risk Simulation
+Vulnerability and risk assessments to identify security weaknesses and recommend mitigation measures.
+- **Stack:** Cybersecurity fundamentals · Risk assessment frameworks
+- **Output:** Mitigation recommendations and reporting
+
+### ☁️ Cloud Collaboration Project
+Cloud collaboration workflows using Google Drive and AI productivity tools to improve team efficiency.
+- **Stack:** Google Drive · AI tools · Workflow automation
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bilalabdulkadir&show_icons=true&theme=radical&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bilalabdulkadir&layout=compact&theme=radical)
+
+</div>
+
+---
+
+## 📫 Let's Connect
+
+| Platform | Link |
+|---|---|
+| LinkedIn | [linkedin.com/in/bilalabdulkadir](https://linkedin.com/in/bilalabdulkadir) |
+| GitHub | [github.com/Bilalabdulkadir](https://github.com/Bilalabdulkadir) |
+| Email | [bilalabdulkadir286@gmail.com](mailto:bilalabdulkadir286@gmail.com) |
+| Portfolio | [bilalabdulkadir.github.io](https://bilalabdulkadir.github.io) |
+
+---
+
+<div align="center">
+
+⭐ *If you find my projects helpful, please consider giving them a star!* ⭐
+
+![Profile Views](https://komarev.com/ghpvc/?username=Bilalabdulkadir&color=blue)
+
+</div>- **Focus**: AI-driven insights, chatbot development, intelligent data workflows  
 
 ### 🌐 Portfolio Website  
 Personal portfolio showcasing projects, skills, and professional journey  
