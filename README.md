@@ -2,17 +2,18 @@
 
 # 👋 Bilal Abdulkadir Muhammed
 
-**IT Support & Data Professional · Aspiring Leader in Technology & Operations**
+**MSc Artificial Intelligence Student · IT Support & Data Professional**
 
-📍 Addis Ababa, Ethiopia  
-📞 +251 941 322 948 · 📧 [bilalabdulkadir286@gmail.com](mailto:bilalabdulkadir286@gmail.com)  
+📍 Bristol, UK · Addis Ababa, Ethiopia  
+📞 +251 941 322 948  
+📧 [bilal2.muhammed@live.uwe.ac.uk](mailto:bilal2.muhammed@live.uwe.ac.uk) · [bilalabdulkadir286@gmail.com](mailto:bilalabdulkadir286@gmail.com)  
 🌐 [bilalabdulkadir.github.io](https://bilalabdulkadir.github.io)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bilalabdulkadir)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bilalabdulkadir)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=web&logoColor=white)](https://bilalabdulkadir.github.io)
 
-> 🟢 **Open to Work** — IT Support, Data Analysis, IT Operations, and Cybersecurity roles (remote, hybrid, or on-site)
+> 🟢 **Currently Studying** — MSc Artificial Intelligence at UWE Bristol | Open to internships and collaboration opportunities
 
 </div>
 
@@ -20,21 +21,21 @@
 
 ## 🚀 About Me
 
-IT professional with **5+ years** of experience in technical support, data management, and systems operations. I lead training initiatives, coordinate cross-departmental workflows, and turn data into decisions that improve team and operational performance. Currently developing leadership and management capabilities to combine technical expertise with strategic team leadership.
+IT professional with **5+ years** of experience in technical support, data management, and systems operations, now pursuing advanced studies in Artificial Intelligence. I lead training initiatives, coordinate cross-departmental workflows, and turn data into actionable insights.
 
 - 🗣️ **Languages:** Amharic (Native) · English (B1, preparing for IELTS 6.0) · Oromo
-- 🎯 **Strengths:** IT support & troubleshooting, Power BI reporting, Python data analysis, SQL databases, stakeholder training
-- 🛠️ **Stack:** Power BI · Microsoft Fabric · Excel · Python (Pandas) · SQL · AWS · Office 365
+- 🎯 **Strengths:** IT support & troubleshooting, Power BI reporting, Python data analysis, SQL databases, AI/ML fundamentals, stakeholder training
+- 🛠️ **Stack:** Power BI · Microsoft Fabric · Excel · Python (Pandas, TensorFlow) · SQL · AWS · Office 365
 - 📈 **Open source:** 150+ commits across public repositories
 
 ---
 
 ## 🎯 What I'm Looking For
 
-Open to roles in **IT Support**, **Data Analysis**, **IT Operations**, and **Cybersecurity**. Interested in positions involving Power BI reporting, ServiceNow-style ticketing workflows, cloud infrastructure (AWS/Azure), or AI-driven analytics.
+Open to roles in **IT Support**, **Data Analysis**, **AI/ML Engineering**, **IT Operations**, and **Cybersecurity**. Interested in positions involving Power BI reporting, ServiceNow-style ticketing workflows, cloud infrastructure, and machine learning applications.
 
 - **Work modes:** Remote · Hybrid · On-site
-- **Availability:** Immediate
+- **Availability:** Flexible (during studies)
 - **Resume:** [Download CV](https://github.com/Bilalabdulkadir/Bilalabdulkadir/raw/main/Bilal_Abdulkadir_CV.pdf) · *or request via [email](mailto:bilalabdulkadir286@gmail.com)*
 
 > *Upload `Bilal_Abdulkadir_CV.pdf` to the root of this repo to activate the download link.*
@@ -63,6 +64,17 @@ Open to roles in **IT Support**, **Data Analysis**, **IT Operations**, and **Cyb
 
 ---
 
+## 🎓 Education
+
+| Degree | Institution | Location | Status |
+|---|---|---|---|
+| **MSc Artificial Intelligence** | University of the West of England Bristol (UWE) | Bristol, UK | *Currently Enrolled* |
+| **B.Sc. Information Technology** | Jimma University | Ethiopia | Graduated Jul 2019 |
+
+**University Email:** [bilal2.muhammed@live.uwe.ac.uk](mailto:bilal2.muhammed@live.uwe.ac.uk)
+
+---
+
 ## 🛡️ Certifications & Training
 
 | Certification | Issuer | Date |
@@ -78,17 +90,12 @@ Open to roles in **IT Support**, **Data Analysis**, **IT Operations**, and **Cyb
 
 ---
 
-## 🎓 Education
-
-**B.Sc. in Information Technology** — Jimma University, Ethiopia (Graduated Jul 2019)
-
----
-
 ## 🛠️ Technical Skills
 
 | Category | Skills |
 |---|---|
 | **Data & Analytics** | Power BI · Microsoft Fabric · Excel (Pivot Tables, Dashboards, Reporting) · Python (Pandas) · SQL |
+| **AI & Machine Learning** | Python · TensorFlow · Scikit-learn · Data analysis & modeling fundamentals |
 | **IT Operations** | Windows OS · Office 365 · Google Workspace · Ticketing Systems · System Configuration |
 | **Cloud & Security** | AWS · Microsoft Cloud Fundamentals · Cybersecurity Fundamentals |
 | **Productivity** | Google Drive · AI productivity tools · Collaborative workflow tools |
@@ -106,6 +113,11 @@ Analyzed IT support ticket data using Python and Power BI to identify service tr
 Interactive dashboards and visual reports to monitor operational performance and business trends.
 - **Stack:** Power BI · Excel
 - **Focus:** Operational KPIs, business reporting
+
+### 🤖 AI & Machine Learning Projects
+Exploring machine learning models and AI applications as part of MSc studies.
+- **Stack:** Python · TensorFlow · Scikit-learn
+- **Focus:** Data science, pattern recognition, predictive modeling
 
 ### 🛡️ Cybersecurity Risk Simulation
 Vulnerability and risk assessments to identify security weaknesses and recommend mitigation measures.
@@ -135,7 +147,8 @@ Cloud collaboration workflows using Google Drive and AI productivity tools to im
 |---|---|
 | LinkedIn | [linkedin.com/in/bilalabdulkadir](https://linkedin.com/in/bilalabdulkadir) |
 | GitHub | [github.com/Bilalabdulkadir](https://github.com/Bilalabdulkadir) |
-| Email | [bilalabdulkadir286@gmail.com](mailto:bilalabdulkadir286@gmail.com) |
+| University Email | [bilal2.muhammed@live.uwe.ac.uk](mailto:bilal2.muhammed@live.uwe.ac.uk) |
+| Personal Email | [bilalabdulkadir286@gmail.com](mailto:bilalabdulkadir286@gmail.com) |
 | Portfolio | [bilalabdulkadir.github.io](https://bilalabdulkadir.github.io) |
 
 ---
