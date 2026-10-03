@@ -1,20 +1,43 @@
-<div align="center">
+<<div align="center">
 
 # 👋 Bilal Abdulkadir Muhammed
 
-### MSc Artificial Intelligence Student | Full-Stack Developer | Data & IT Professional
+### MSc Artificial Intelligence Student · Full-Stack Developer · Data & IT Professional
 
 Building AI-powered solutions, data-driven systems, and scalable digital platforms for education, sustainability, and community impact.
 
-📍 Ethiopia | 🎓 MSc Artificial Intelligence, UWE Bristol (Online)
+📍 **Ethiopia** · 🎓 **MSc Artificial Intelligence, UWE Bristol (Online)**
 
-📧 bilal2.muhammed@live.uwe.ac.uk • bilalabdulkadir286@gmail.com
+📧 [bilal2.muhammed@live.uwe.ac.uk](mailto:bilal2.muhammed@live.uwe.ac.uk) · [bilalabdulkadir286@gmail.com](mailto:bilalabdulkadir286@gmail.com)
 
-🌐 [Portfolio](https://bilalabdulkadir.github.io)
+🌐 **Portfolio:** [bilalabdulkadir.github.io](https://bilalabdulkadir.github.io)
+
+<br>
 
 https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://linkedin.com/in/bilalabdulkadir)
 https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white](https://github.com/Bilalabdulkadir)
 https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white](https://bilalabdulkadir.github.io)
+
+## 🚀 Quick Snapshot
+
+| | |
+|---|---|
+| 🎓 Education | MSc Artificial Intelligence, UWE Bristol |
+| 💼 Experience | 6+ Years in IT Support & Data Systems |
+| 🛠️ Focus | AI · Full-Stack Development · Data Analytics |
+| 🌍 Interests | Sustainable Computing · Digital Transformation |
+| 🚀 Current Project | UWE MSc AI Community Platform |
+| 📍 Location | Ethiopia |
+
+
+<br>
+
+🟢 **Currently Studying:** MSc Artificial Intelligence at UWE Bristol
+
+🤝 **Open To:** Graduate Opportunities · Internships · Research Collaboration · Open Source Projects
+
+</div>
+
 
 > 🚀 MSc AI student at UWE Bristol with 6+ years of experience in IT support, data systems, analytics, and digital transformation.
 
