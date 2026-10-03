@@ -2,226 +2,346 @@
 
 # 👋 Bilal Abdulkadir Muhammed
 
-**MSc AI Student · IT Support Specialist · Data Analyst · Community Builder**
+### MSc Artificial Intelligence Student | Full-Stack Developer | Data & IT Professional
 
-📍 Ethiopia · MSc Artificial Intelligence at UWE Bristol (Online)  
-📧 [bilal2.muhammed@live.uwe.ac.uk](mailto:bilal2.muhammed@live.uwe.ac.uk) · [bilalabdulkadir286@gmail.com](mailto:bilalabdulkadir286@gmail.com)  
+Building AI-powered solutions, data-driven systems, and scalable digital platforms for education, sustainability, and community impact.
+
+📍 Ethiopia | 🎓 MSc Artificial Intelligence, UWE Bristol (Online)
+
+📧 [bilal2.muhammed@live.uwe.ac.uk](mailto:bilal2.muhammed@live.uwe.ac.uk) • [bilalabdulkadir286@gmail.com](mailto:bilalabdulkadir286@gmail.com)
+
 🌐 [Portfolio](https://bilalabdulkadir.github.io)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bilalabdulkadir)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bilalabdulkadir)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=web&logoColor=white)](https://bilalabdulkadir.github.io)
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://linkedin.com/in/bilalabdulkadir)
+https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white](https://github.com/Bilalabdulkadir)
+https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white](https://bilalabdulkadir.github.io)
 
-> 🟢 **Currently Studying** — MSc Artificial Intelligence at UWE Bristol | Open to internships, graduate opportunities, and collaboration
+> 🚀 MSc AI student at UWE Bristol with 6+ years of experience in IT support, data systems, analytics, and digital transformation. Open to internships, graduate roles, research collaboration, and innovative technology projects.
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-IT support and data professional with **6+ years of experience** in technical support, database management, analytics, and digital transformation. Currently pursuing an **MSc in Artificial Intelligence at UWE Bristol**, with interests in AI applications, data-driven decision making, cloud technologies, cybersecurity, and sustainable digital infrastructure.
+I'm an MSc Artificial Intelligence student at UWE Bristol and an IT professional with over six years of experience in technical support, databases, analytics, and digital transformation.
 
-I enjoy using technology to solve practical problems, improve services, support communities, and create opportunities through digital innovation.
+My work sits at the intersection of:
 
-- 🗣️ **Languages:** Amharic · English (Professional Working Proficiency) · Afaan Oromo
-- 🎯 **Strengths:** IT support & troubleshooting, data analysis, Power BI reporting, Python, SQL databases, AI/ML fundamentals, stakeholder training
-- 🛠️ **Stack:** Python · SQL · Power BI · Excel · PostgreSQL · FastAPI · Next.js · Docker · AWS · Microsoft 365
-- 🌱 **Research interests:** AI · Sustainable Cloud Computing · Green IT · Digital Transformation
+- Artificial Intelligence
+- Data Analytics
+- Software Engineering
+- Cloud Technologies
+- Cybersecurity
+- Sustainable Digital Infrastructure
 
----
+I enjoy building practical technology solutions that create measurable impact, from AI-enabled community platforms to data-driven decision support systems.
 
-## 🎯 What I'm Looking For
-
-Open to:
-
-- **AI & Machine Learning**
-- **Data Analytics**
-- **IT Support & Operations**
-- **Cloud Computing**
-- **Cybersecurity**
-- **Digital Transformation**
-- **Graduate opportunities & internships**
-- **Collaborative technology projects**
-
-**Work modes:** Remote · Hybrid · On-site
+Currently, I am focused on developing intelligent applications, full-stack software platforms, and sustainable digital solutions that support learning, collaboration, research, and innovation.
 
 ---
 
-## 💼 Professional Experience
+# ⭐ Portfolio Highlights
 
-### IT Service Support Officer — Star Development Association
-**May 2022 – Present**
+## 🤖 UWE MSc AI Community Platform
 
-- Provide L1/L2 technical support covering hardware, software, printers, networks, user accounts, backups, and cybersecurity.
-- Troubleshoot technical issues and support day-to-day IT operations across departments.
-- Configure and maintain user devices, software, accounts, and IT services.
-- Develop technical documentation and practical guidance for users.
-- Train and support staff on digital tools, IT best practices, and troubleshooting.
-- Contribute to service continuity, operational efficiency, and improved user support.
+**Flagship Full-Stack Project**
 
-### Database Registration Officer — Dera City Administration
-**2020 – 2022**
+A modern community platform built for MSc Artificial Intelligence students, researchers, alumni, and industry professionals.
 
-- Managed registration and database records while supporting data-quality and reporting workflows.
-- Validated records and applied data-quality controls.
-- Helped reduce duplicate records by **40%**.
-- Produced routine and ad-hoc reports to support operational decision-making.
-- Supported internal stakeholders with database access and records management.
+### Key Features
 
-### Volunteer Computer Tutor — Community Programme, Jimma
-**2014 – 2019**
-
-- Delivered computer and digital-skills training to community learners.
-- Mentored learners on hardware, software, internet use, and troubleshooting.
-- Coordinated practical training sessions for diverse groups.
-- Developed communication, facilitation, and community leadership skills.
-
----
-
-## 🎓 Education
-
-| Degree | Institution | Location | Status |
-|---|---|---|---|
-| **MSc Artificial Intelligence** | University of the West of England (UWE Bristol) | UK · Online | Currently Enrolled |
-| **BSc Information Technology** | Jimma University | Ethiopia | Graduated 2019 |
-
----
-
-## 🛡️ Certifications & Training
-
-| Certification | Issuer | Year |
-|---|---|---|
-| Critical Infrastructure Protection (ICIP) | OPSWAT Academy | 2026 |
-| Cybersecurity Fundamentals Associate | OPSWAT Academy | 2026 |
-| AWS AI Practitioner Challenge | Udacity | 2026 |
-| Cyber Security Operations Job Simulation | Forage | 2026 |
-| Cloud Computing — Describe Cloud Computing | Microsoft Learn | 2026 |
-| CompTIA Security+ SY0-701 Mock Exam | CyberInterviewPrep | 2026 |
-| Maze 101: Getting Started | Maze University | 2026 |
-| Developing Emotional Intelligence | Saint Louis University | 2026 |
-| Gemini in Google Drive | Udacity | 2026 |
-
----
-
-## 🛠️ Technical Skills
-
-| Category | Skills |
-|---|---|
-| **Data & Analytics** | Python · Pandas · SQL · Power BI · Excel · Data Visualization · Reporting |
-| **AI & Machine Learning** | Python · TensorFlow · Scikit-learn · Generative AI · ML Fundamentals |
-| **Software & Web** | FastAPI · Next.js · React · REST APIs |
-| **Databases** | PostgreSQL · SQL · MongoDB |
-| **IT Operations** | Windows · Microsoft 365 · Google Workspace · Hardware/Software Support · Ticketing Systems |
-| **Cloud & DevOps** | AWS · Docker · Cloud Fundamentals · Deployment Workflows |
-| **Cybersecurity** | Cybersecurity Fundamentals · Risk Assessment · Security Awareness |
-| **Digital Transformation** | AI Productivity Tools · Digital Workflows · Data-Driven Decision Making |
-
----
-
-## 🚀 Current Flagship Project
-
-### [UWE MSc AI Community Platform](https://github.com/Bilalabdulkadir/uwe-msc-ai-community)
-
-A full-stack community platform designed for **MSc Artificial Intelligence students, researchers, alumni, and industry professionals**.
-
-**Key capabilities:**
-
-- 👥 Student networking
+- 👥 Student and alumni networking
 - 🤝 Project collaboration
-- 🧑‍🏫 Mentoring
+- 🧑‍🏫 Mentorship support
 - 📅 Event management
 - 📚 Resource sharing
 - 📊 Analytics dashboards
 - 🔎 Future AI-powered semantic search
 
-**Technology:** PostgreSQL · FastAPI · SQLAlchemy · Next.js · Docker · OpenAI
+### Technology
 
-The project aims to create a practical digital environment for learning, collaboration, knowledge sharing, and professional networking within the AI community.
+`FastAPI` • `PostgreSQL` • `SQLAlchemy` • `Next.js` • `Docker` • `TypeScript`
+
+🔗 Repository: https://github.com/Bilalabdulkadir/uwe-msc-ai-community
 
 ---
 
-## 🌱 Sustainable Digital Infrastructure
+## 🌱 Sustainable IT Infrastructure
 
-### [Sustainable IT Infrastructure Project](https://github.com/Bilalabdulkadir/sustainable-it-infrastructure-project)
+Research-driven project exploring sustainable computing, Green IT, cloud efficiency, and digital sustainability.
 
-Exploring **Green IT, sustainable infrastructure, cloud efficiency, energy optimization, and e-waste reduction** using data analytics and AI.
-
-**Focus areas:**
+### Focus Areas
 
 - Sustainable cloud infrastructure
-- Energy efficiency
+- Energy-efficient computing
 - Green IT metrics
 - Infrastructure analytics
-- AI-assisted analysis
+- AI-assisted sustainability analysis
 - Sustainable digital transformation
 
----
-
-## 🌍 Leadership & Community Impact
-
-- Trained and supported staff on digital tools and IT best practices.
-- Delivered digital-skills training to community learners in Jimma.
-- Developed the **Digital Empowerment Model (DEM)** exploring digital skills, youth leadership, and sustainable development.
-- Building community-focused technology initiatives for learning, collaboration, and innovation.
-- Interested in applying AI and digital transformation to inclusive and sustainable development.
+🔗 Repository: https://github.com/Bilalabdulkadir/sustainable-it-infrastructure-project
 
 ---
 
-## 📂 Featured Projects
+## 🌍 Digital Empowerment Model (DEM)
 
-| Project | Focus |
-|---|---|
-| [UWE MSc AI Community Platform](https://github.com/Bilalabdulkadir/uwe-msc-ai-community) | AI community, collaboration & networking |
-| [Sustainable IT Infrastructure](https://github.com/Bilalabdulkadir/sustainable-it-infrastructure-project) | Green IT & sustainable cloud |
-| [Green Digital Ethiopia](https://github.com/Bilalabdulkadir/green-digital-ethiopia) | Digital transformation & sustainability |
-| [IT Support Data Analysis](https://github.com/Bilalabdulkadir/IT-support-data-analysis) | IT service analytics |
-| [Personal Website](https://github.com/Bilalabdulkadir/bilalabdulkadir.github.io) | Portfolio & professional profile |
+A developing framework exploring:
+
+- Digital skills development
+- Community technology adoption
+- Youth leadership
+- Inclusive innovation
+- Sustainable digital transformation
+
+Designed to investigate how technology can accelerate educational, social, and economic development.
 
 ---
 
-## 📚 Current Learning Focus
+# 🎯 Career Interests
+
+I am particularly interested in opportunities involving:
+
+- Artificial Intelligence
+- Machine Learning
+- Data Analytics
+- Software Engineering
+- Cloud Computing
+- Cybersecurity
+- Digital Transformation
+- Technology for Social Impact
+
+### Preferred Working Models
+
+✅ Remote
+
+✅ Hybrid
+
+✅ On-site
+
+---
+
+# 🛠️ Technical Skills
+
+## Software Engineering
+
+- API Design
+- REST API Development
+- System Architecture
+- Database Modelling
+- Authentication Systems
+- Clean Architecture
+- Technical Documentation
+- Agile Development Practices
+
+## Data & Analytics
+
+- Python
+- Pandas
+- SQL
+- Power BI
+- Excel
+- Data Visualization
+- Business Reporting
+
+## Artificial Intelligence & Machine Learning
+
+- Python
+- Scikit-learn
+- TensorFlow
+- Generative AI
+- Machine Learning Fundamentals
+- AI Productivity Tools
+
+## Web Development
+
+- FastAPI
+- Next.js
+- React
+- TypeScript
+- HTML
+- CSS
+- JavaScript
+
+## Databases
+
+- PostgreSQL
+- SQL
+- MongoDB
+
+## Cloud & DevOps
+
+- AWS
+- Docker
+- Containerization
+- Deployment Workflows
+- Cloud Fundamentals
+
+## IT Operations
+
+- Microsoft 365
+- Windows Administration
+- Google Workspace
+- Technical Support
+- Incident Management
+- User Training
+
+## Cybersecurity
+
+- Security Fundamentals
+- Risk Assessment
+- Security Awareness
+- Infrastructure Protection
+
+---
+
+# 💼 Professional Experience
+
+## IT Service Support Officer
+### Star Development Association
+**May 2022 – Present**
+
+- Provide L1/L2 technical support across hardware, software, networks, printers, accounts, and cybersecurity.
+- Support day-to-day IT operations and service continuity.
+- Configure and maintain user devices and digital services.
+- Develop internal technical documentation and support resources.
+- Deliver user training and digital-skills support.
+- Contribute to improved operational efficiency and service reliability.
+
+---
+
+## Database Registration Officer
+### Dera City Administration
+**2020 – 2022**
+
+- Managed registration systems and database records.
+- Performed validation and quality-control procedures.
+- Contributed to a 40% reduction in duplicate records.
+- Produced operational and management reports.
+- Supported internal records-management processes.
+
+---
+
+## Volunteer Computer Tutor
+### Community Programme, Jimma
+**2014 – 2019**
+
+- Delivered digital-skills and computer training.
+- Mentored learners on software, hardware, and internet use.
+- Facilitated practical learning sessions.
+- Supported community technology adoption initiatives.
+
+---
+
+# 🎓 Education
+
+| Degree | Institution | Status |
+|----------|----------|----------|
+| MSc Artificial Intelligence | University of the West of England (UWE Bristol) | Currently Enrolled |
+| BSc Information Technology | Jimma University | Graduated |
+
+---
+
+# 🛡️ Certifications & Training
+
+- Critical Infrastructure Protection (ICIP)
+- Cybersecurity Fundamentals Associate
+- AWS AI Practitioner Challenge
+- Cyber Security Operations Job Simulation
+- Microsoft Learn Cloud Computing
+- CompTIA Security+ SY0-701 Preparation
+- Maze University UX Research Training
+- Developing Emotional Intelligence
+- Gemini in Google Drive
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Focus Area |
+|----------|----------|
+| UWE MSc AI Community Platform | AI Community & Collaboration |
+| Sustainable IT Infrastructure | Green IT & Sustainable Computing |
+| Green Digital Ethiopia | Digital Transformation |
+| IT Support Data Analysis | Service Analytics |
+| Personal Portfolio Website | Web Development & Branding |
+
+---
+
+# 🌍 Leadership & Community Impact
+
+- Delivered digital-skills training to community learners.
+- Supported staff development through technical training and user guidance.
+- Developed the Digital Empowerment Model (DEM).
+- Promoted technology adoption and digital literacy initiatives.
+- Interested in applying AI and digital transformation to sustainable development and community growth.
+
+---
+
+# 📚 Current Learning Focus
 
 - Artificial Intelligence
 - Machine Learning
 - Generative AI
 - MLOps
+- Data Science
 - Cloud Computing
-- Data Analytics
 - Cybersecurity
+- Sustainable Computing
 - Digital Transformation
-- Sustainable Computing / Green IT
+- Software Architecture
 
 ---
 
-## 📊 GitHub Statistics
+# 🎯 Career Vision
+
+My goal is to build a career at the intersection of Artificial Intelligence, software engineering, data analytics, cloud technologies, and digital transformation.
+
+I am particularly interested in creating intelligent systems that improve:
+
+- Education
+- Community engagement
+- Sustainability
+- Organisational effectiveness
+- Research collaboration
+- Public service delivery
+
+Through technology, I aim to contribute to solutions that create real-world impact while remaining scalable, ethical, and sustainable.
+
+---
+
+# 📊 GitHub Statistics
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bilalabdulkadir&show_icons=true&theme=radical&count_private=true)
+https://github-readme-stats.vercel.app/api?username=Bilalabdulkadir&show_icons=true&theme=radical&count_private=true
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bilalabdulkadir&layout=compact&theme=radical)
+https://github-readme-stats.vercel.app/api/top-langs/?username=Bilalabdulkadir&layout=compact&theme=radical
 
 </div>
 
 ---
 
-## 📫 Let's Connect
+# 📫 Let's Connect
 
 | Platform | Link |
-|---|---|
-| LinkedIn | [linkedin.com/in/bilalabdulkadir](https://linkedin.com/in/bilalabdulkadir) |
-| GitHub | [github.com/Bilalabdulkadir](https://github.com/Bilalabdulkadir) |
-| Portfolio | [bilalabdulkadir.github.io](https://bilalabdulkadir.github.io) |
-| University Email | [bilal2.muhammed@live.uwe.ac.uk](mailto:bilal2.muhammed@live.uwe.ac.uk) |
-| Personal Email | [bilalabdulkadir286@gmail.com](mailto:bilalabdulkadir286@gmail.com) |
+|----------|----------|
+| LinkedIn | https://linkedin.com/in/bilalabdulkadir |
+| GitHub | https://github.com/Bilalabdulkadir |
+| Portfolio | https://bilalabdulkadir.github.io |
+| University Email | bilal2.muhammed@live.uwe.ac.uk |
+| Personal Email | bilalabdulkadir286@gmail.com |
 
 ---
 
 <div align="center">
 
-⭐ **Thanks for visiting my profile. Explore my repositories and connect with me!**
+### ⭐ Thanks for visiting my profile!
 
-![Profile Views](https://komarev.com/ghpvc/?username=Bilalabdulkadir&color=blue)
+I enjoy collaborating on AI, data, software engineering, digital transformation, and community-focused technology projects.
+
+Let's connect, learn, and build impactful solutions together.
+
+https://komarev.com/ghpvc/?username=Bilalabdulkadir&color=blue
 
 </div>
