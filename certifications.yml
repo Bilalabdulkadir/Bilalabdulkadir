@@ -1,30 +1,90 @@
+# certifications.yml
+# tier: core | additional
 certifications:
-  - name: "AWS Certified Solutions Architect"
-    issuer: "Amazon Web Services"
-    date: "2024-06-15"
-    url: "https://aws.amazon.com/certification/"
-    badge: "🏆"
+  # --- Core ---
+  - name: OPSWAT Cybersecurity Fundamentals Associate (OCFA)
+    issuer: OPSWAT Academy
+    issued: 2026-09-15
+    expires: 2027-09-15
+    credential_url: https://learn.opswatacademy.com/certificate/fsjNtf_Dwg
+    tier: core
+    topic: cybersecurity
 
-  - name: "Google Cloud Associate Cloud Engineer"
-    issuer: "Google Cloud"
-    date: "2024-05-20"
-    url: "https://cloud.google.com/certification/cloud-engineer"
-    badge: "☁️"
+  - name: Introduction to Critical Infrastructure Protection (ICIP)
+    issuer: OPSWAT Academy
+    issued: 2026-03-10
+    expires: 2027-03-10
+    credential_url: https://learn.opswatacademy.com/certificate/k5yF3Kv6Zw
+    tier: core
+    topic: cybersecurity
 
-  - name: "Kubernetes Application Developer (CKAD)"
-    issuer: "Cloud Native Computing Foundation"
-    date: "2024-04-10"
-    url: "https://www.cncf.io/certification/ckad/"
-    badge: "⚓"
+  - name: AWS AI Practitioner Challenge
+    issuer: Udacity
+    issued: 2026-05-15
+    credential_url: https://www.udacity.com/certificate/e/73a90c56-29c8-11f1-acb2-7bc8769607f6
+    tier: core
+    topic: cloud-ai
 
-  - name: "HashiCorp Certified: Terraform Associate"
-    issuer: "HashiCorp"
-    date: "2024-03-05"
-    url: "https://www.hashicorp.com/certification/terraform-associate"
-    badge: "🛠️"
+  - name: Discover data analysis
+    issuer: Microsoft Learn
+    issued: 2026-01-08
+    tier: core
+    topic: data-analytics
 
-  - name: "Microsoft Azure Fundamentals (AZ-900)"
-    issuer: "Microsoft"
-    date: "2024-02-28"
-    url: "https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/"
-    badge: "🌐"
+  - name: Get started with Microsoft data analytics
+    issuer: Microsoft Learn
+    issued: 2026-01-08
+    tier: core
+    topic: data-analytics
+
+  - name: Get started with Copilot in Power BI
+    issuer: Microsoft Learn
+    issued: 2026-01-08
+    tier: core
+    topic: data-analytics
+
+  # --- Additional learning ---
+  - name: Market Research Analyst Program Powerskill Course
+    issuer: RIT Tiger STRIPES Program (powered by Excelerate)
+    issued: 2026-07-29
+    tier: additional
+    topic: market-research
+
+  - name: AI in Storytelling & Digital Media Internship
+    issuer: Saint Louis University (powered by Excelerate)
+    issued: 2026-08-13
+    tier: additional
+    topic: ai-media
+
+  - name: "Jump Start: Developing Your Emotional Intelligence"
+    issuer: Saint Louis University (powered by Excelerate)
+    issued: 2026-05-04
+    tier: additional
+    topic: professional-skills
+
+  - name: Gemini in Google Drive
+    issuer: Udacity (with Google Cloud)
+    issued: 2026-01-10
+    credential_url: https://www.udacity.com/certificate/e/04e374b6-9084-11ef-a00e-2f4543730d74
+    tier: additional
+    topic: ai-productivity
+    note: Course completion only; not a Google Cloud certification.
+
+  - name: Fundamentals of Starting and Running a Business
+    issuer: YALI Network (Young African Leaders Initiative)
+    issued: 2026-01-12
+    tier: additional
+    topic: entrepreneurship
+    note: Professional development; no academic credit.
+
+  - name: "Getting Started with Premium All-in-One: How to Grow Your Business on LinkedIn"
+    issuer: LinkedIn Learning
+    issued: 2026-07-25
+    tier: additional
+    topic: professional-skills
+
+  - name: LinkedIn course
+    issuer: ABC Life Literacy Canada (Connect for Learning)
+    issued: 2025-08-28
+    tier: additional
+    topic: professional-skills
