@@ -1,101 +1,209 @@
+
 <div align="center">
 
 # 👋 Bilal Abdulkadir Muhammed
 
-**MSc AI Student · IT Support Specialist · Data Analyst · Community Builder**
+### MSc Artificial Intelligence Student | IT Support Specialist | Data Analyst | Green ICT Researcher
 
-📍 Ethiopia · MSc Artificial Intelligence at UWE Bristol (Online)  
-📧 [bilal2.muhammed@live.uwe.ac.uk](mailto:bilal2.muhammed@live.uwe.ac.uk) · [bilalabdulkadir286@gmail.com](mailto:bilalabdulkadir286@gmail.com)  
-🌐 [Portfolio](https://bilalabdulkadir.github.io)
+**Building practical technology solutions through IT support, data analytics, artificial intelligence, and sustainable digital transformation.**
 
-[
+📍 Ethiopia · MSc Artificial Intelligence, UWE Bristol (Online)
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+📧 [UWE Email](mailto:bilal2.muhammed@live.uwe.ac.uk) · [Personal Email](mailto:bilalabdulkadir286@gmail.com)
 
-](https://linkedin.com/in/bilalabdulkadir)
-[
+🌐 [Portfolio Website](https://bilalabdulkadir.github.io)
 
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bilalabdulkadir)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bilalabdulkadir)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/bilalabdulkadir1)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0007-8605-6281)
 
-](https://github.com/Bilalabdulkadir)
-[
+🟢 **Currently studying:** MSc Artificial Intelligence at UWE Bristol
 
-![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=web&logoColor=white)
-
-](https://bilalabdulkadir.github.io)
-
-🟢 **Currently studying:** MSc Artificial Intelligence at UWE Bristol (Online)  
-🤝 **Open to:** study groups · project collaborators · mentoring · internships & graduate opportunities
+🤝 **Open to:** Academic collaboration · Study groups · Research discussions · Project collaboration · Mentoring · Internship and graduate opportunities
 
 </div>
 
+---
 
-## 🤝 Join the UWE MSc AI Community
+## 👨‍💻 About Me
 
-I'm building a platform for our cohort and I'd like classmates to help shape it.
+I am an IT support and data professional with **6+ years of experience** across technical support, database management, data quality, reporting, and digital transformation.
 
-- Browse the project: [UWE MSc AI Community Platform](https://github.com/Bilalabdulkadir/uwe-msc-ai-community)
-- Pick up a `good first issue`, suggest a feature, or start a study-group discussion
-- Not a developer? Message me on [LinkedIn](https://linkedin.com/in/bilalabdulkadir) with ideas for events, resources, or mentoring
+I am currently pursuing an **MSc in Artificial Intelligence at the University of the West of England (UWE Bristol)**. My academic and professional interests bring together artificial intelligence, data analytics, statistical methods, cloud technologies, cybersecurity, and sustainable digital infrastructure.
 
+I enjoy applying technology to practical challenges, improving IT services, supporting digital skills development, and building solutions that create opportunities for individuals and communities.
 
-## 🚀 About Me
+**Professional interests**
 
-IT support and data professional with **6+ years of experience** in technical support, database management, analytics, and digital transformation. Currently pursuing an **MSc in Artificial Intelligence at UWE Bristol**, with interests in AI applications, data-driven decision making, cloud technologies, cybersecurity, and sustainable digital infrastructure.
+- Artificial Intelligence and Machine Learning
+- Data Analytics and Statistical Inference
+- R Programming and Interactive Data Applications
+- IT Service Management and Technical Support
+- Database Administration and Data Quality
+- Cloud Computing and Cybersecurity
+- Green ICT and Sustainable Digital Transformation
+- Responsible and Inclusive Technology
 
-I enjoy using technology to solve practical problems, improve services, support communities, and create opportunities through digital innovation.
+**Languages:** Amharic · English · Afaan Oromo
 
-- 🗣️ **Languages:** Amharic · English (Professional Working Proficiency) · Afaan Oromo
-- 🛠️ **Stack:** Python · SQL · Power BI · Excel · PostgreSQL · FastAPI · Next.js · Docker · AWS · Microsoft 365
-- 🌱 **Research interests:** AI · Sustainable Cloud Computing · Green IT · Digital Transformation
+**Core technologies:** Python · R · SQL · PostgreSQL · Pandas · Shiny · Streamlit · Power BI · Excel · FastAPI · Next.js · Docker · AWS · Microsoft 365
 
+---
+
+## 🎓 Academic Journey — MSc Artificial Intelligence
+
+**University of the West of England (UWE Bristol)**  
+MSc Artificial Intelligence | Online, Part-time | 2026–2028
+
+My MSc journey focuses on developing a strong foundation in artificial intelligence, programming, statistical reasoning, data analysis, and applied computational methods.
+
+**Current learning areas**
+
+- Python programming and computational problem-solving
+- R programming and statistical inference
+- Regression analysis and statistical modelling
+- Exploratory data analysis
+- Data visualisation using R and ggplot2
+- Machine learning foundations
+- Reproducible research and analytical communication
+- Interactive applications with Shiny and Streamlit
+- Practical AI applications
+
+I use practical projects and reproducible workflows to document my learning and develop evidence of applied technical skills.
+
+---
+
+## 🤝 UWE MSc AI Community
+
+I am developing a community platform intended to support collaboration among MSc Artificial Intelligence students, researchers, alumni, and industry professionals.
+
+**Explore the project:** [UWE MSc AI Community Platform](https://github.com/Bilalabdulkadir/uwe-msc-ai-community)
+
+Ways to contribute:
+
+- Explore the repository and its open issues.
+- Look for `good first issue` opportunities.
+- Suggest improvements and new features.
+- Share ideas for study groups, resources, events, and mentoring.
+- Participate in technical and academic discussions.
+
+The aim is to create a collaborative learning environment that supports knowledge sharing, peer learning, and professional networking.
+
+---
 
 ## 🚀 Current Flagship Project
 
 ### [UWE MSc AI Community Platform](https://github.com/Bilalabdulkadir/uwe-msc-ai-community)
 
-A full-stack community platform designed for **MSc Artificial Intelligence students, researchers, alumni, and industry professionals**.
+A full-stack community platform designed to support collaboration and knowledge sharing across the artificial intelligence academic community.
 
-**Key capabilities:**
+**Planned and developing capabilities**
 
-- 👥 Student networking
+- 👥 Student and professional networking
 - 🤝 Project collaboration
-- 🧑‍🏫 Mentoring
+- 🧑‍🏫 Mentoring and peer learning
 - 📅 Event management
-- 📚 Resource sharing
+- 📚 Academic resource sharing
 - 📊 Analytics dashboards
 - 🔎 Future AI-powered semantic search
 
-**Technology:** PostgreSQL · FastAPI · SQLAlchemy · Next.js · Docker · OpenAI
+**Technology stack:** PostgreSQL · FastAPI · SQLAlchemy · Next.js · Docker · OpenAI
 
-The project aims to create a practical digital environment for learning, collaboration, knowledge sharing, and professional networking within the AI community.
+The platform is an ongoing development project. Its features and implementation continue to evolve.
 
+---
 
 ## 📂 Featured Projects
 
-| Project | Focus | Live |
+| Project | Focus | Repository / Demo |
 |---|---|---|
-| [UWE MSc AI Community Platform](https://github.com/Bilalabdulkadir/uwe-msc-ai-community) | AI community, collaboration & networking | – |
-| [Green Digital Ethiopia](https://github.com/Bilalabdulkadir/green-digital-ethiopia) | Sustainable digital infrastructure research & policy modeling | [Open site](https://green-digital-ethiopia.netlify.app/) |
-| [Sustainable IT Infrastructure](https://github.com/Bilalabdulkadir/sustainable-it-infrastructure-project) | Green IT & sustainable cloud | – |
-| [IT Support Data Analysis](https://github.com/Bilalabdulkadir/IT-support-data-analysis) | IT service analytics | – |
-| [Personal Website](https://github.com/Bilalabdulkadir/bilalabdulkadir.github.io) | Portfolio & professional profile | [Open site](https://bilalabdulkadir.github.io) |
+| UWE MSc AI Community Platform | AI community, collaboration and networking | [GitHub](https://github.com/Bilalabdulkadir/uwe-msc-ai-community) |
+| Green Digital Ethiopia | Sustainable digital infrastructure research and policy modelling | [Repository](https://github.com/Bilalabdulkadir/green-digital-ethiopia) · [Live Demo](https://green-digital-ethiopia.netlify.app/) |
+| Sustainable IT Infrastructure | Green IT and sustainable cloud infrastructure | [GitHub](https://github.com/Bilalabdulkadir/sustainable-it-infrastructure-project) |
+| IT Support Data Analysis | IT service analytics and reporting | [GitHub](https://github.com/Bilalabdulkadir/IT-support-data-analysis) |
+| Streamlit Data Visualisation | Interactive Python data applications | [Repository](https://github.com/Bilalabdulkadir/examples-streamlit) |
+| Personal Website | Portfolio and professional profile | [GitHub](https://github.com/Bilalabdulkadir/bilalabdulkadir.github.io) · [Website](https://bilalabdulkadir.github.io) |
 
+---
+
+## 📊 MSc AI Portfolio & Data Analytics
+
+I am building a practical portfolio to document my academic learning, programming experience, statistical analysis, and data visualisation work.
+
+### Streamlit — Interactive Data Applications
+
+**Top 5% Income Share — Interactive Visualisation**
+
+A Python application exploring the share of national income received by the richest 5% across selected countries and years.
+
+**Technologies:** Python · Streamlit · Pandas · Altair
+
+- Explore country-level income-share trends.
+- Select countries and year ranges.
+- Examine interactive time-series visualisations.
+- Inspect the underlying data.
+
+**Data source:** [Our World in Data](https://ourworldindata.org/grapher/top-5-income-share)
+
+**Code:** [Streamlit Examples Repository](https://github.com/Bilalabdulkadir/examples-streamlit)
+
+**Published application:** [Posit Connect Cloud](https://bilalmuhammed-msc-ai-portfolio.share.connect.posit.cloud/)
+
+### R Programming and Shiny
+
+I am developing my R programming and interactive application development skills through Posit Academy learning and practical data-analysis exercises.
+
+**Learning areas**
+
+- R programming fundamentals
+- Interactive web applications with Shiny
+- Data visualisation with ggplot2
+- Statistical analysis and regression
+- Reproducible analytical workflows
+- Posit development environments
+
+**Completed Posit Academy courses**
+
+- [Introduction to Shiny — R Focus](https://academy-customer.netlify.app/badge/dzn6b1deste7/j4a38kuewais)
+- [What is Posit Workbench?](https://academy-customer.netlify.app/badge/dzn6b1deste7/3wig8xihsjpq)
+
+### Data Analytics and Statistical Learning
+
+Areas of practical exploration include:
+
+- Descriptive and exploratory data analysis
+- Simple and multiple linear regression
+- Statistical inference
+- Data cleaning and preparation
+- Data visualisation with R and ggplot2
+- Python-based analytical workflows
+- Reproducible research
+
+**Explore my work**
+
+- [Kaggle Profile](https://www.kaggle.com/bilalabdulkadir1)
+- [GitHub Repositories](https://github.com/Bilalabdulkadir?tab=repositories)
+- [ORCID Researcher Profile](https://orcid.org/0009-0007-8605-6281)
+
+---
 
 ## 💼 Professional Experience
 
 ### IT Service Support Officer — Star Development Association
+
 **May 2022 – Present**
 
-- Provide L1/L2 technical support covering hardware, software, printers, networks, user accounts, backups, and cybersecurity.
-- Troubleshoot technical issues and support day-to-day IT operations across departments.
+- Provide Level 1 and Level 2 technical support across hardware, software, printers, networks, user accounts, backups, and cybersecurity.
+- Troubleshoot technical issues and support daily IT operations across departments.
 - Configure and maintain user devices, software, accounts, and IT services.
-- Develop technical documentation and practical guidance for users.
-- Train and support staff on digital tools, IT best practices, and troubleshooting.
+- Develop technical documentation and practical user guidance.
+- Train and support staff in digital tools, IT best practices, and troubleshooting.
 - Contribute to service continuity, operational efficiency, and improved user support.
 
 ### Database Registration Officer — Dera City Administration
-**2020 – 2022**
+
+**November 2020 – September 2022**
 
 - Managed registration and database records while supporting data-quality and reporting workflows.
 - Validated records and applied data-quality controls.
@@ -104,6 +212,7 @@ The project aims to create a practical digital environment for learning, collabo
 - Supported internal stakeholders with database access and records management.
 
 ### Volunteer Computer Tutor — Community Programme, Jimma
+
 **2014 – 2019**
 
 - Delivered computer and digital-skills training to community learners.
@@ -111,62 +220,91 @@ The project aims to create a practical digital environment for learning, collabo
 - Coordinated practical training sessions for diverse groups.
 - Developed communication, facilitation, and community leadership skills.
 
+### Independent IT & Data Consultant
+
+**October 2025 – Present**
+
+- Explore practical IT support and data-related solutions.
+- Support digital workflows, technical problem-solving, and data analysis.
+- Develop independent technical and research projects.
+
+---
 
 ## 🎓 Education
 
-| Degree | Institution | Location | Status |
+| Qualification | Institution | Location | Status |
 |---|---|---|---|
-| **MSc Artificial Intelligence** | University of the West of England (UWE Bristol) | UK · Online | Currently Enrolled |
-| **BSc Information Technology** | Jimma University | Ethiopia | Graduated 2019 |
+| MSc Artificial Intelligence | University of the West of England (UWE Bristol) | United Kingdom · Online | Currently Enrolled |
+| BSc Information Technology | Jimma University | Ethiopia | Graduated 2019 |
 
+---
 
 ## 🛡️ Certifications & Training
 
-### Core (Security, Cloud, AI, Data)
+### Core Certifications and Technical Training
 
-| Certification | Issuer | Date | Verify |
+| Certification / Training | Issuer | Date | Verification |
 |---|---|---|---|
-| OPSWAT Cybersecurity Fundamentals Associate (OCFA) | OPSWAT Academy | Sep 2026 (valid to Sep 2027) | [Credential](https://learn.opswatacademy.com/certificate/fsjNtf_Dwg) |
-| Introduction to Critical Infrastructure Protection (ICIP) | OPSWAT Academy | Mar 2026 (valid to Mar 2027) | [Credential](https://learn.opswatacademy.com/certificate/k5yF3Kv6Zw) |
+| OPSWAT Cybersecurity Fundamentals Associate (OCFA) | OPSWAT Academy | September 2026 | [Credential](https://learn.opswatacademy.com/certificate/fsjNtf_Dwg) |
+| Introduction to Critical Infrastructure Protection (ICIP) | OPSWAT Academy | March 2026 | [Credential](https://learn.opswatacademy.com/certificate/k5yF3Kv6Zw) |
 | AWS AI Practitioner Challenge | Udacity | May 2026 | [Credential](https://www.udacity.com/certificate/e/73a90c56-29c8-11f1-acb2-7bc8769607f6) |
-| Discover data analysis | Microsoft Learn | Jan 2026 | – |
-| Get started with Microsoft data analytics | Microsoft Learn | Jan 2026 | – |
-| Get started with Copilot in Power BI | Microsoft Learn | Jan 2026 | – |
+| Discover Data Analysis | Microsoft Learn | January 2026 | — |
+| Get Started with Microsoft Data Analytics | Microsoft Learn | January 2026 | — |
+| Get Started with Copilot in Power BI | Microsoft Learn | January 2026 | — |
 
-### Additional learning
+### Posit Academy — R Programming and Data Science
 
-| Course | Issuer | Date |
+| Course | Issuer | Completion Date | Verified Certificate |
+|---|---|---|---|
+| Introduction to Shiny — R Focus | Posit Academy | October 28, 2026 | [View Verified Badge](https://academy-customer.netlify.app/badge/dzn6b1deste7/j4a38kuewais) |
+| What is Posit Workbench? | Posit Academy | September 27, 2026 | [View Verified Badge](https://academy-customer.netlify.app/badge/dzn6b1deste7/3wig8xihsjpq) |
+
+Both course badges were verified against Posit Academy's records when their certificate pages loaded.
+
+### Additional Learning and Development
+
+| Course / Programme | Issuer | Date |
 |---|---|---|
-| Market Research Analyst Program Powerskill Course | RIT Tiger STRIPES × Excelerate | Jul 2026 |
-| AI in Storytelling & Digital Media Internship | Saint Louis University × Excelerate | Aug 2026 |
+| Market Research Analyst Program Powerskill Course | RIT Tiger STRIPES × Excelerate | July 2026 |
+| AI in Storytelling & Digital Media Internship | Saint Louis University × Excelerate | August 2026 |
 | Jump Start: Developing Your Emotional Intelligence | Saint Louis University × Excelerate | May 2026 |
-| Gemini in Google Drive (course completion, not a Google Cloud certification) | Udacity | Jan 2026 |
-| Fundamentals of Starting and Running a Business | YALI Network | Jan 2026 |
-| Getting Started with Premium All-in-One: Grow Your Business on LinkedIn | LinkedIn Learning | Jul 2026 |
-| LinkedIn course | ABC Life Literacy Canada (Connect for Learning) | Aug 2025 |
+| Gemini in Google Drive — Course Completion | Udacity | January 2026 |
+| Fundamentals of Starting and Running a Business | YALI Network | January 2026 |
+| Getting Started with Premium All-in-One: Grow Your Business on LinkedIn | LinkedIn Learning | July 2026 |
+| LinkedIn Course | ABC Life Literacy Canada (Connect for Learning) | August 2025 |
 
+---
 
 ## 🛠️ Technical Skills
 
-| Category | Skills |
+| Category | Technologies and Skills |
 |---|---|
-| **Data & Analytics** | Python · Pandas · SQL · Power BI · Excel · Data Visualization · Reporting |
-| **AI & Machine Learning** | Python · TensorFlow · Scikit-learn · Generative AI · ML Fundamentals |
-| **Software & Web** | FastAPI · Next.js · React · REST APIs |
+| **Programming Languages** | Python · R · SQL |
+| **Python Data Science** | Pandas · Data Cleaning · Data Analysis · Analytical Workflows |
+| **R & Statistical Computing** | R Programming · Statistical Inference · Regression Analysis · Reproducible Research |
+| **R Application Development** | Shiny · Interactive Data Applications |
+| **Posit Ecosystem** | Posit Workbench · Posit Connect Cloud · Posit Academy Learning |
+| **Data Visualisation** | Power BI · Excel · ggplot2 · Altair · Streamlit |
+| **AI & Machine Learning** | Generative AI · Machine Learning Fundamentals · TensorFlow · Scikit-learn |
+| **Software & Web Development** | FastAPI · Next.js · React · REST APIs |
 | **Databases** | PostgreSQL · SQL · MongoDB |
-| **IT Operations** | Windows · Microsoft 365 · Google Workspace · Hardware/Software Support · Ticketing Systems |
+| **IT Operations** | Windows · Microsoft 365 · Google Workspace · Hardware and Software Support · Ticketing Systems |
 | **Cloud & DevOps** | AWS · Docker · Cloud Fundamentals · Deployment Workflows |
 | **Cybersecurity** | Cybersecurity Fundamentals · Risk Assessment · Security Awareness |
 | **Digital Transformation** | AI Productivity Tools · Digital Workflows · Data-Driven Decision Making |
+| **Research & Sustainability** | Statistical Analysis · Sustainable Computing · Green ICT · Sustainability Modelling |
 
+---
 
-## 🌱 Sustainable Digital Infrastructure
+## 🌱 Sustainable Digital Infrastructure & Green ICT
+
+My research and development interests include the environmental sustainability of digital infrastructure, energy-efficient computing, sustainable cloud technologies, and responsible digital transformation.
 
 ### [Sustainable IT Infrastructure Project](https://github.com/Bilalabdulkadir/sustainable-it-infrastructure-project)
 
-Exploring **Green IT, sustainable infrastructure, cloud efficiency, energy optimization, and e-waste reduction** using data analytics and AI.
+An independent project exploring Green IT, sustainable infrastructure, cloud efficiency, energy optimisation, and e-waste reduction through data analytics and AI.
 
-**Focus areas:**
+**Focus areas**
 
 - Sustainable cloud infrastructure
 - Energy efficiency
@@ -175,67 +313,84 @@ Exploring **Green IT, sustainable infrastructure, cloud efficiency, energy optim
 - AI-assisted analysis
 - Sustainable digital transformation
 
-### [Green Digital Ethiopia](https://green-digital-ethiopia.netlify.app/) · v0.2 Research in Progress
+### [Green Digital Ethiopia](https://green-digital-ethiopia.netlify.app/)
 
-An independent research and policy-modeling framework (NEXUS Public Policy Lab) on sustainable digital infrastructure: energy efficiency, PUE, clean-grid dynamics, and circular hardware lifecycles.
+<sup>v0.2 · Research in Progress · NEXUS Public Policy Lab</sup>
 
-**What it does:**
+An independent research and policy-modelling framework exploring sustainable digital infrastructure in Ethiopia, including data centre energy efficiency, Power Usage Effectiveness (PUE), clean-grid dynamics, and circular hardware lifecycles.
 
-- 🧪 **Sustainability Scenario Lab:** an interactive simulator for testing data center PUE cooling improvements, server efficiency gains, renewable energy procurement, and hardware lifecycle extensions
-- ⚙️ **Deterministic engine:** calculations are pure and independently testable, based on ISO/IEC 30134-2 and GHG Protocol methods
-- 🏭 **Presets:** Hyperscale, Telecom Edge, and Public Cloud
-- 🧭 **Sections:** Systems Nexus, Scenario Lab & PUE, and Evidence
+**Platform capabilities**
 
-[
+- 🧪 **Sustainability Scenario Lab:** Explore scenarios involving data centre PUE improvements, cooling efficiency, server efficiency, renewable energy procurement, and hardware lifecycle extensions.
+- ⚙️ **Deterministic calculation engine:** Scenario calculations are designed to be reproducible and independently testable.
+- 🏭 **Infrastructure presets:** Hyperscale, Telecom Edge, and Public Cloud.
+- 🧭 **Research sections:** Systems Nexus, Scenario Lab & PUE, Energy Trilemma, Evidence System, and Policy Framework.
 
-![Live Demo](https://img.shields.io/badge/Live%20Demo-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+**Standards and frameworks explored:** ISO/IEC 30134-2 · GHG Protocol · Sustainable IT and energy-efficiency indicators.
 
-](https://green-digital-ethiopia.netlify.app/)
+[![Live Demo](https://img.shields.io/badge/Explore%20Live%20Platform-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://green-digital-ethiopia.netlify.app/)
 
-> Independent research; it models sustainable IT policy parameters and does not claim official Ethiopian government status or commercial endorsement.
+> **Research integrity statement:** Green Digital Ethiopia is independent sustainability research and policy modelling. It is not an official Ethiopian government publication and does not claim government endorsement or commercial endorsement. Research assumptions and scenario outputs should be distinguished from measured or independently verified evidence.
 
+---
 
 ## 🌍 Leadership & Community Impact
 
-- Trained and supported staff on digital tools and IT best practices.
+- Trained and supported staff in the use of digital tools and IT best practices.
 - Delivered digital-skills training to community learners in Jimma.
 - Developed the **Digital Empowerment Model (DEM)** exploring digital skills, youth leadership, and sustainable development.
 - Building community-focused technology initiatives for learning, collaboration, and innovation.
 - Interested in applying AI and digital transformation to inclusive and sustainable development.
 
+---
 
 ## 📚 Current Learning Focus
 
-Artificial Intelligence · Machine Learning · Generative AI · MLOps · Cloud Computing · Data Analytics · Cybersecurity · Digital Transformation · Sustainable Computing / Green IT
+| Area | Learning Topics |
+|---|---|
+| Artificial Intelligence | AI foundations · Generative AI · Applied AI |
+| Machine Learning | Model fundamentals · Data preparation · Evaluation |
+| Statistical Analysis | Statistical inference · Regression · R programming |
+| Data Science | Python · Pandas · Data visualisation |
+| R Application Development | Shiny · Interactive applications · ggplot2 |
+| Posit Ecosystem | Posit Workbench · Posit Connect Cloud |
+| Software Development | APIs · FastAPI · Next.js · Streamlit |
+| Cloud Technologies | AWS · Docker · Cloud deployment |
+| Responsible Technology | Cybersecurity · Green ICT · Sustainable computing |
 
+---
+
+## 🔗 Professional Profiles & Research Links
+
+- **Portfolio:** [Personal Website](https://bilalabdulkadir.github.io)
+- **LinkedIn:** [Professional Profile](https://linkedin.com/in/bilalabdulkadir)
+- **GitHub:** [Repositories and Projects](https://github.com/Bilalabdulkadir)
+- **Kaggle:** [Data Science Profile](https://www.kaggle.com/bilalabdulkadir1)
+- **ORCID:** [Researcher Identifier](https://orcid.org/0009-0007-8605-6281)
+- **UWE MSc AI Community:** [Community Repository](https://github.com/Bilalabdulkadir/uwe-msc-ai-community)
+- **Green Digital Ethiopia:** [Research Platform](https://green-digital-ethiopia.netlify.app/)
+- **Professional Links:** [Bilal Digital Profile](https://b1o.uk/Bilalmuhammed)
+
+---
 
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bilalabdulkadir&show_icons=true&theme=radical&count_private=true)
-
-
-
-
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bilalabdulkadir&layout=compact&theme=radical)
 
-
-
 </div>
 
+---
 
 <div align="center">
 
-⭐ **Thanks for visiting my profile. Explore my repositories and connect with me!**
+### ⭐ Thank you for visiting my GitHub profile!
 
-
+Explore my repositories, follow my learning journey, and connect with me for academic, technical, and research collaboration.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Bilalabdulkadir&color=blue)
-
-
 
 </div>
