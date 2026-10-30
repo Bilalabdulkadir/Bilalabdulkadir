@@ -239,70 +239,47 @@ Areas of practical exploration include:
 
 ---
 
-## 🛡️ Certifications & Training
+| AI in Storytelling & Digital Media ## Certifications, Credentials & Professional Development
 
-### Core Certifications and Technical Training
+My learning and professional development cover cybersecurity, cloud computing, artificial intelligence, data analytics, business research, and digital innovation.
 
-| Certification / Training | Issuer | Date | Verification |
+### Core Certifications & Learning
+
+| Credential | Issuer | Date | Verification |
 |---|---|---|---|
-| OPSWAT Cybersecurity Fundamentals Associate (OCFA) | OPSWAT Academy | September 2026 | [Credential](https://learn.opswatacademy.com/certificate/fsjNtf_Dwg) |
-| Introduction to Critical Infrastructure Protection (ICIP) | OPSWAT Academy | March 2026 | [Credential](https://learn.opswatacademy.com/certificate/k5yF3Kv6Zw) |
-| AWS AI Practitioner Challenge | Udacity | May 2026 | [Credential](https://www.udacity.com/certificate/e/73a90c56-29c8-11f1-acb2-7bc8769607f6) |
-| Discover Data Analysis | Microsoft Learn | January 2026 | — |
-| Get Started with Microsoft Data Analytics | Microsoft Learn | January 2026 | — |
-| Get Started with Copilot in Power BI | Microsoft Learn | January 2026 | — |
+| OPSWAT Cybersecurity Fundamentals Associate (OCFA) | OPSWAT Academy | 15 Sep 2026 | [View Certificate](https://learn.opswatacademy.com/certificate/fsjNtf_Dwg) |
+| Introduction to Critical Infrastructure Protection (ICIP) | OPSWAT Academy | 10 Mar 2026 | [View Certificate](https://learn.opswatacademy.com/certificate/k5yF3Kv6Zw) |
+| AWS AI Practitioner Challenge | Udacity | 15 May 2026 | [View Certificate](https://www.udacity.com/certificate/e/73a90c56-29c8-11f1-acb2-7bc8769607f6) |
+| Discover data analysis | Microsoft Learn | 08 Jan 2026 | [Microsoft Learn Profile](https://learn.microsoft.com/en-us/users/muhammedbilal-0049/) |
+| Get started with Microsoft data analytics | Microsoft Learn | 08 Jan 2026 | [Microsoft Learn Profile](https://learn.microsoft.com/en-us/users/muhammedbilal-0049/) |
+| Get started with Copilot in Power BI | Microsoft Learn | 08 Jan 2026 | [Microsoft Learn Profile](https://learn.microsoft.com/en-us/users/muhammedbilal-0049/) |
 
-### Posit Academy — R Programming and Data Science
-
-| Course | Issuer | Completion Date | Verified Certificate |
-|---|---|---|---|
-| Introduction to Shiny — R Focus | Posit Academy | October 28, 2026 | [View Verified Badge](https://academy-customer.netlify.app/badge/dzn6b1deste7/j4a38kuewais) |
-| What is Posit Workbench? | Posit Academy | September 27, 2026 | [View Verified Badge](https://academy-customer.netlify.app/badge/dzn6b1deste7/3wig8xihsjpq) |
-
-Both course badges were verified against Posit Academy's records when their certificate pages loaded.
-
-### Additional Learning and Development
+### Additional Professional Development
 
 | Course / Programme | Issuer | Date |
 |---|---|---|
-| Market Research Analyst Program Powerskill Course | RIT Tiger STRIPES × Excelerate | July 2026 |
-| AI in Storytelling & Digital Media Internship | Saint Louis University × Excelerate | August 2026 |
-| Jump Start: Developing Your Emotional Intelligence | Saint Louis University × Excelerate | May 2026 |
-| Gemini in Google Drive — Course Completion | Udacity | January 2026 |
-| Fundamentals of Starting and Running a Business | YALI Network | January 2026 |
-| Getting Started with Premium All-in-One: Grow Your Business on LinkedIn | LinkedIn Learning | July 2026 |
-| LinkedIn Course | ABC Life Literacy Canada (Connect for Learning) | August 2025 |
+| Market Research Analyst Program Powerskill Course | RIT Tiger STRIPES Program (powered by Excelerate) | 29 Jul 2026 |
+| AI in Storytelling & Digital Media Internship | Saint Louis University (powered by Excelerate) | 13 Aug 2026 |
+| Jump Start: Developing Your Emotional Intelligence | Saint Louis University (powered by Excelerate) | 04 May 2026 |
+| Gemini in Google Drive | Udacity (with Google Cloud) | 10 Jan 2026 |
+| Fundamentals of Starting and Running a Business | YALI Network | 12 Jan 2026 |
+| Getting Started with Premium All-in-One: How to Grow Your Business on LinkedIn | LinkedIn Learning | 25 Jul 2026 |
+| LinkedIn course | ABC Life Literacy Canada (Connect for Learning) | 28 Aug 2025 |
 
-### LinkedIn Learning
+### Posit Academy
 
-| Credential | Verification |
-|---|---|
-| LinkedIn Learning Certificate 1 | [View Certificate](https://www.linkedin.com/learning/certificates/892a03570b0eda8eb85687f094692ff3c82ce5a13b7b3cb5c08e4408e05c87e5/) |
-| LinkedIn Learning Certificate 2 | [View Certificate](https://www.linkedin.com/learning/certificates/84feace52a2af3e093ec587bcc05850b334a7a0c371242c6c00290d88d5da82f/) |
+| Course | Completion Date | Verified Badge |
+|---|---|---|
+| Introduction to Shiny — R Focus | 28 Oct 2026 | [View Badge](https://academy-customer.netlify.app/badge/dzn6b1deste7/j4a38kuewais) |
+| What is Posit Workbench? | 27 Sep 2026 | [View Badge](https://academy-customer.netlify.app/badge/dzn6b1deste7/3wig8xihsjpq) |
 
-### Udacity
+### Additional Learning & Achievement Records
 
-| Credential | Verification |
-|---|---|
-| Udacity Certificate 1 | [View Certificate](https://www.udacity.com/certificate/e/73a90c56-29c8-11f1-acb2-7bc8769607f6) |
-| Udacity Certificate 2 | [View Certificate](https://www.udacity.com/certificate/e/04e374b6-9084-11ef-a00e-2f4543730d74) |
+- **AWS AI & ML Scholars — Analyze Data Project:** [View Project Badge](https://cdn.getblueshift.com/bee/images/ed5b8755-0989-4944-9ca5-287bb68e4a22/AWS%20AI%20%26%20ML%20Scholarship%20Badges%20-%20Project%20-%20Analyze%20Data%20-%20Dark%403x.jpg)
+- **Microsoft Learn:** [View Learning Profile](https://learn.microsoft.com/en-us/users/muhammedbilal-0049/)
+- **Excelerate:** [View Verified Certificate](https://experience.4excelerate.org/verifications/certificate/d000f050e0508070-010d0e030-040b07080-1a017d8bZ-X1KeV1Bf74255aVcFfSeX972H/Muhammed)
 
-### AWS AI & ML Scholars
-
-| Achievement | Verification |
-|---|---|
-| Project Completion — Analyze Data using AI with PartyRock | [View AWS AI & ML Scholars Badge](https://cdn.getblueshift.com/bee/images/ed5b8755-0989-4944-9ca5-287bb68e4a22/AWS%20AI%20%26%20ML%20Scholarship%20Badges%20-%20Project%20-%20Analyze%20Data%20-%20Dark%403x.jpg) |
-
-### Microsoft Learn
-
-- [View Microsoft Learn Profile](https://learn.microsoft.com/en-us/users/muhammedbilal-0049/)
-
-### Excelerate
-
-- [View Verified Excelerate Certificate](https://experience.4excelerate.org/verifications/certificate/d000f050e0508070-010d0e030-040b07080-1a017d8bZ-X1KeV1Bf74255aVcFfSeX972H/Muhammed)
-
-
----
+*Note: Course completions, programme participation, project badges, and professional certifications are listed separately to distinguish their credential types. Gemini in Google Drive is a course completion, not a Google Cloud certification.*
 
 ## 🛠️ Technical Skills
 
