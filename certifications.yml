@@ -1,7 +1,16 @@
+
 # certifications.yml
 # tier: core | additional
+# Credential records distinguish professional certifications, course completions,
+# programme learning, internships, and project badges.
+# Dates use ISO 8601 (YYYY-MM-DD).
+
 certifications:
-  # --- Core ---
+
+  # ============================================================
+  # CORE CERTIFICATIONS AND LEARNING
+  # ============================================================
+
   - name: OPSWAT Cybersecurity Fundamentals Associate (OCFA)
     issuer: OPSWAT Academy
     issued: 2026-09-15
@@ -9,6 +18,7 @@ certifications:
     credential_url: https://learn.opswatacademy.com/certificate/fsjNtf_Dwg
     tier: core
     topic: cybersecurity
+    credential_type: professional-certification
 
   - name: Introduction to Critical Infrastructure Protection (ICIP)
     issuer: OPSWAT Academy
@@ -17,6 +27,7 @@ certifications:
     credential_url: https://learn.opswatacademy.com/certificate/k5yF3Kv6Zw
     tier: core
     topic: cybersecurity
+    credential_type: course-certificate
 
   - name: AWS AI Practitioner Challenge
     issuer: Udacity
@@ -24,43 +35,56 @@ certifications:
     credential_url: https://www.udacity.com/certificate/e/73a90c56-29c8-11f1-acb2-7bc8769607f6
     tier: core
     topic: cloud-ai
+    credential_type: challenge-certificate
 
   - name: Discover data analysis
     issuer: Microsoft Learn
     issued: 2026-01-08
+    profile_url: https://learn.microsoft.com/en-us/users/muhammedbilal-0049/
     tier: core
     topic: data-analytics
+    credential_type: learning-module
 
   - name: Get started with Microsoft data analytics
     issuer: Microsoft Learn
     issued: 2026-01-08
+    profile_url: https://learn.microsoft.com/en-us/users/muhammedbilal-0049/
     tier: core
     topic: data-analytics
+    credential_type: learning-module
 
   - name: Get started with Copilot in Power BI
     issuer: Microsoft Learn
     issued: 2026-01-08
+    profile_url: https://learn.microsoft.com/en-us/users/muhammedbilal-0049/
     tier: core
     topic: data-analytics
+    credential_type: learning-module
 
-  # --- Additional learning ---
+  # ============================================================
+  # ADDITIONAL PROFESSIONAL DEVELOPMENT
+  # ============================================================
+
   - name: Market Research Analyst Program Powerskill Course
     issuer: RIT Tiger STRIPES Program (powered by Excelerate)
     issued: 2026-07-29
     tier: additional
     topic: market-research
+    credential_type: programme-course
 
   - name: AI in Storytelling & Digital Media Internship
     issuer: Saint Louis University (powered by Excelerate)
     issued: 2026-08-13
     tier: additional
     topic: ai-media
+    credential_type: internship
 
   - name: "Jump Start: Developing Your Emotional Intelligence"
     issuer: Saint Louis University (powered by Excelerate)
     issued: 2026-05-04
     tier: additional
     topic: professional-skills
+    credential_type: professional-development
 
   - name: Gemini in Google Drive
     issuer: Udacity (with Google Cloud)
@@ -68,6 +92,7 @@ certifications:
     credential_url: https://www.udacity.com/certificate/e/04e374b6-9084-11ef-a00e-2f4543730d74
     tier: additional
     topic: ai-productivity
+    credential_type: course-completion
     note: Course completion only; not a Google Cloud certification.
 
   - name: Fundamentals of Starting and Running a Business
@@ -75,6 +100,7 @@ certifications:
     issued: 2026-01-12
     tier: additional
     topic: entrepreneurship
+    credential_type: professional-development
     note: Professional development; no academic credit.
 
   - name: "Getting Started with Premium All-in-One: How to Grow Your Business on LinkedIn"
@@ -82,9 +108,72 @@ certifications:
     issued: 2026-07-25
     tier: additional
     topic: professional-skills
+    credential_type: course-completion
 
   - name: LinkedIn course
     issuer: ABC Life Literacy Canada (Connect for Learning)
     issued: 2025-08-28
     tier: additional
     topic: professional-skills
+    credential_type: course-completion
+
+  # ============================================================
+  # LINKEDIN LEARNING CERTIFICATES
+  # Titles and issue dates need confirmation from certificate pages.
+  # ============================================================
+
+  - name: LinkedIn Learning Certificate 1 (title to confirm)
+    issuer: LinkedIn Learning
+    credential_url: https://www.linkedin.com/learning/certificates/892a03570b0eda8eb85687f094692ff3c82ce5a13b7b3cb5c08e4408e05c87e5/
+    tier: additional
+    topic: professional-skills
+    credential_type: course-completion
+    note: Confirm exact course title and issue date.
+
+  - name: LinkedIn Learning Certificate 2 (title to confirm)
+    issuer: LinkedIn Learning
+    credential_url: https://www.linkedin.com/learning/certificates/84feace52a2af3e093ec587bcc05850b334a7a0c371242c6c00290d88d5da82f/
+    tier: additional
+    topic: professional-skills
+    credential_type: course-completion
+    note: Confirm exact course title and issue date.
+
+  # ============================================================
+  # POSIT ACADEMY
+  # ============================================================
+
+  - name: Introduction to Shiny — R Focus
+    issuer: Posit Academy
+    issued: 2026-10-28
+    credential_url: https://academy-customer.netlify.app/badge/dzn6b1deste7/j4a38kuewais
+    tier: additional
+    topic: r-programming
+    credential_type: course-completion
+
+  - name: What is Posit Workbench?
+    issuer: Posit Academy
+    issued: 2026-09-27
+    credential_url: https://academy-customer.netlify.app/badge/dzn6b1deste7/3wig8xihsjpq
+    tier: additional
+    topic: data-science-tools
+    credential_type: course-completion
+
+  # ============================================================
+  # PROJECT BADGES AND PROGRAMME VERIFICATION
+  # ============================================================
+
+  - name: Analyze Data Project — AWS AI & ML Scholars
+    issuer: AWS AI & ML Scholars
+    credential_url: https://cdn.getblueshift.com/bee/images/ed5b8755-0989-4944-9ca5-287bb68e4a22/AWS%20AI%20%26%20ML%20Scholarship%20Badges%20-%20Project%20-%20Analyze%20Data%20-%20Dark%403x.jpg
+    tier: additional
+    topic: cloud-ai
+    credential_type: project-badge
+    note: Project achievement badge; separate from the Udacity AWS AI Practitioner Challenge.
+
+  - name: Excelerate Certificate (programme title to confirm)
+    issuer: Excelerate
+    credential_url: https://experience.4excelerate.org/verifications/certificate/d000f050e0508070-010d0e030-040b07080-1a017d8bZ-X1KeV1Bf74255aVcFfSeX972H/Muhammed
+    tier: additional
+    topic: professional-development
+    credential_type: programme-certificate
+    note: Confirm exact programme title and issuer from the verification page.
