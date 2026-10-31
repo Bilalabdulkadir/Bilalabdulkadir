@@ -185,6 +185,14 @@ Areas of practical exploration include:
 - [Kaggle Profile](https://www.kaggle.com/bilalabdulkadir1)
 - [GitHub Repositories](https://github.com/Bilalabdulkadir?tab=repositories)
 - [ORCID Researcher Profile](https://orcid.org/0009-0007-8605-6281)
+- 
+- ## 🐍 Python Learning Progress
+
+Learning Python for Data Science, Statistical Computing, and Artificial Intelligence.
+
+[![Python progress on pythoncompiler.io](https://pythoncompiler.io/api/card/bilalmuhammed.svg)](https://pythoncompiler.io/u/bilalmuhammed/)
+
+[View my PythonCompiler profile](https://pythoncompiler.io/u/bilalmuhammed/)
 
 ---
 
